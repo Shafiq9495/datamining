@@ -9,3 +9,4 @@ missingno==0.4.2
 tqdm==4.50.2
 Boruta==0.3
 scipy==1.5.2
+vega==3.5.0
