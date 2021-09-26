@@ -2,7 +2,8 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import altair as alt
-alt.data_transformers.enable('data_server')
+#alt.data_transformers.enable('data_server')
+from altair_data_server import data_server
 import matplotlib.pyplot as plt 
 plt.rc("font", size=14)
 #from datetime import datetime
